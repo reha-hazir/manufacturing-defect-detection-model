@@ -1,7 +1,6 @@
 # Predicting Manufacturing Defects
 
-👉 **View full results (HTML)**:
-- https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html
+👉 **[View full results (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
 
 ## Overview
 
@@ -48,6 +47,5 @@ The dataset used for this analysis is named `manufacturing_defect_dataset`. It i
 
 ## Getting Started
 
-👉 **View full results (HTML)**:
-- https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html
+👉 **[View full results (HTML)](https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html)**
 
