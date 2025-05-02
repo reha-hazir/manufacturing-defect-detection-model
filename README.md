@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to improve the accuracy of defect detection in manufacturing processes using machine learning techniques. We enhance a baseline model's performance from an accuracy of 95% to 96% through targeted feature engineering.
+This project aims to improve the accuracy of defect detection in manufacturing processes using machine learning techniques. I enhanced a baseline model's performance from an accuracy of 95% to 96% through targeted feature engineering.
 
 ## Dataset
 
