@@ -1,5 +1,8 @@
 # Predicting Manufacturing Defects
 
+👉 **View full results (HTML)**:
+- https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html
+
 ## Overview
 
 This project aims to improve the accuracy of defect detection in manufacturing processes using machine learning techniques. I enhanced a baseline model's performance from an accuracy of 95% to 96% through targeted feature engineering.
@@ -45,6 +48,6 @@ The dataset used for this analysis is named `manufacturing_defect_dataset`. It i
 
 ## Getting Started
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository_url>
+👉 **View full results (HTML)**:
+- https://reha-hazir.github.io/manufacturing-defect-detection-model/main.html
+
